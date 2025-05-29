@@ -1,5 +1,12 @@
 # 💫 About Me:
 - 📍 Currently working at **Amazon Development Center, Chennai**  <br>- 💼 Roles held: Data Analyst | Quality Specialist | Catalog Assistant  <br>- ⚙️ Experienced in:  <br>  - Process Improvement & SOP Development  <br>  - Data Mapping & Market Research  <br>  - Root Cause Analysis using Lean Six Sigma principles  <br>- 🏅 Certifications:  <br>  - Lean Six Sigma Green Belt  <br>
+### 📊 Data Analyst Skill Set
+- **Languages:** SQL, DAX, Python (basic)
+- **Databases:** Amazon Redshift, PostgreSQL
+- **Visualization:** Power BI, Excel (Advanced)
+- **Tools:** SAS (Basic), Jira, Confluence
+- **Concepts:** Data Cleaning, ETL, KPI Tracking, A/B Testing, Data Storytelling
+- **Methodologies:** Agile (Scrum & Kanban), Lean Six Sigma
 
 
 ## 🌐 Socials:
