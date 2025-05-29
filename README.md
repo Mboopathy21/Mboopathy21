@@ -12,7 +12,6 @@
 - 📚 Building case studies and end-to-end data projects
 - 📈 Exploring business KPIs and real-world analytics scenarios
 ### 🧰 Featured Projects
-*(Add your project links here once uploaded to GitHub)*  
 - 📊 **Sales Analysis Dashboard** – Power BI project with trend insights & forecasting  
 - 📦 **Amazon Catalog Process Audit** – SQL-based analysis for process accuracy  
 - 📈 **Customer Retention Metrics** – DAX & Power BI report for churn insights
