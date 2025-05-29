@@ -1,12 +1,36 @@
 # 💫 About Me:
 - 📍 Currently working at **Amazon Development Center, Chennai**  <br>- 💼 Roles held: Data Analyst | Quality Specialist | Catalog Assistant  <br>- ⚙️ Experienced in:  <br>  - Process Improvement & SOP Development  <br>  - Data Mapping & Market Research  <br>  - Root Cause Analysis using Lean Six Sigma principles  <br>- 🏅 Certifications:  <br>  - Lean Six Sigma Green Belt  <br>
 ### 📊 Data Analyst Skill Set
-- **Languages:** SQL, DAX, Python (basic)
+- **Languages:** SQL, DAX
 - **Databases:** Amazon Redshift, PostgreSQL
 - **Visualization:** Power BI, Excel (Advanced)
-- **Tools:** SAS (Basic), Jira, Confluence
+- **Tools:**  Jira, Confluence
 - **Concepts:** Data Cleaning, ETL, KPI Tracking, A/B Testing, Data Storytelling
 - **Methodologies:** Agile (Scrum & Kanban), Lean Six Sigma
+- ### 🚀 Currently Learning & Practicing
+- 📌 Deep diving into **Power BI Dashboards** and **SQL Optimization**
+- 📚 Building case studies and end-to-end data projects
+- 📈 Exploring business KPIs and real-world analytics scenarios
+### 🧰 Featured Projects
+*(Add your project links here once uploaded to GitHub)*  
+- 📊 **Sales Analysis Dashboard** – Power BI project with trend insights & forecasting  
+- 📦 **Amazon Catalog Process Audit** – SQL-based analysis for process accuracy  
+- 📈 **Customer Retention Metrics** – DAX & Power BI report for churn insights
+### 📸 A Little About Me
+- 💪 Fitness enthusiast & certified coach  
+- 📷 Passionate photographer & video editor  
+- ✍️ Loves writing content on tech, productivity, and wellness  
+
+---
+
+### 📫 Let’s Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mahesh-boopathy-494a7716a/)
+- 📨 Open to data projects, collaborations, or analytics discussions!
+
+---
+
+*“Turning data into decisions — one query at a time.”*
+
 
 
 ## 🌐 Socials:
